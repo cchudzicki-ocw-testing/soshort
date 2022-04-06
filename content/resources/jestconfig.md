@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/my-new-site/jestconfig.js
 file_type: text/javascript
 image_metadata:
@@ -9,9 +9,9 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: jest.config.js
+title: Cool js file
 uid: 6b8bedba-3c7b-48b7-b521-2f9b0411d2ee
 video_files:
   video_captions_file: ''
